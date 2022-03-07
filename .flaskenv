@@ -1,0 +1,1 @@
+FLASK_APP=buy_or_rent.py
